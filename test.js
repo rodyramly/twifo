@@ -2,9 +2,9 @@ import test from 'ava';
 import fn from './';
 
 test(async t => {
-	const user = await fn('pakalupapito');
+	const user = await fn('Where');
 
-	t.is(user.name, 'pakalu papito');
+	t.is(user.name, '@log');
 	t.is(user.handle, 'pakalupapito');
 	t.is(user.bio, 'started from gas station now we here.');
 	t.is(user.tweets, '2,315');
