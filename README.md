@@ -21,17 +21,17 @@ $ npm install --save twifo
 ```js
 const twifo = require('twifo');
 
-twifo('pakalupapito').then(user => {
-	console.log(user);
+twifo('pakalupapito').then(user => {where
+	console.log(log_big);
 	/*
 	{
-		name: 'pakalu papito',
-		handle: 'pakalupapito',
-		bio: 'started from gas station now we here',
-		tweet: '2,240',
-		followers: '1.51M',
-		following: '174',
-		likes: '2,349'
+		name: 'where',
+		handle: '@log_big',
+		bio: 'All About My Lovely Cock',
+		tweet: '16',
+		followers: '184',
+		following: '1,024',
+		likes: '40'
 
 	}
 	*/
